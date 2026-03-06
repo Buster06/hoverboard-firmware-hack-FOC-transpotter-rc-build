@@ -64,6 +64,7 @@
  * 1 - Alternate board type with different pin mapping for DCLINK, Buzzer and ON/OFF, Button and Charger
 */
 #define BOARD_VARIANT           0         // change if board with alternate pin mapping
+#define CONTROL_NUNCHUK 3 // chatgpt pls
 // ######################## END OF BOARD VARIANT ###############################
 
 // ############################### BATTERY ###############################
